@@ -1,0 +1,59 @@
+James Erardi
+
+Literature Review I
+
+
+For this literature review, I decided to choose a topic I've been interested in for awhile 
+and it even led me to take this class; augmented reality, and in particular, augmented reality for 
+intensive engineering workforce training. Since I was a kid, I always wondered how professions like 
+aeronautical engineering get hands on training while being remaining budget friendly. Today, 
+leading computer graphic scientists have created the best thing to happen for newbie aerospace engineers:
+augmented reality training. 
+
+Augmented reality is different than the traditional virtual reality in that it does exactly what it's name 
+describes; it augments the physical world with virtual images. My secondary source mentions that augmented reality
+can be seen in almost every industry now; from video games like Pokemon Go to furniture shopping. It also segues into
+my main article in that, the most ground breaking, revolutionary way that augmented reality is particularly suited for 
+the maintenance industry. It mentions that it can take up to 2,000 hours for aviation engineer inspectors
+to receive enough training to be considered professionals. Unfortunately, due to the nature of airplanes that
+require maintenance (ie they can't really move), mechanics must travel great distances to learn how to fix them.
+Fully implemented augmented reality systems would allow engineers to experience the permutations they could come across
+in the field and allow them to experiment and learn how to fix the problem before they "need" to fix the problem. 
+
+The article I chose for my primary source focuses on a prototype which had been designed to help instruct new
+aeronautical engineers on how to perform maintenance on an airplane. The developers of the prototype decided that starting 
+with something simple like changing the oil would the best way to begin this massive undertaking of developing
+a system with such drastic technological requirements. The researchers went into depth on what algorithm they decided to
+choose for their natural image processing, in which they decided on SURF - an algorithm designed to maximize computational
+efficiency. They were able to achieve a FPS of 10, which worked just fine for their prototype. The aerospace engineers gave them
+flying reviews on their prototype and encouraged them to keep developing this product because it has potential to become
+a quintessential aspect of modern engineering. 
+
+
+
+@ARTICLE{5675633,
+author={F. De Crescenzio and M. Fantini and F. Persiani and L. Di Stefano and P. Azzari and S. Salti},
+journal={IEEE Computer Graphics and Applications},
+title={Augmented Reality for Aircraft Maintenance Training and Operations Support},
+year={2011},
+volume={31},
+number={1},
+pages={96-101},
+keywords={aerospace computing;air accidents;air safety;aircraft maintenance;augmented reality;computer based training;air transportation safety;aircraft maintenance training;augmented reality;aviation accident;computer based tools;human error;maintenance employees;operations support;Cameras;Feature extraction;Maintenance engineering;Solid modeling;Streaming media;Three dimensional displays;aircraft maintenance;augmented reality;computer graphics;graphics and multimedia;human-computer interaction},
+doi={10.1109/MCG.2011.4},
+ISSN={0272-1716},
+month={Jan},}
+
+
+@INPROCEEDINGS{5970856,
+author={M. Hincapié and A. Caponio and H. Rios and E. González Mendívil},
+booktitle={2011 13th International Conference on Transparent Optical Networks},
+title={An introduction to Augmented Reality with applications in aeronautical maintenance},
+year={2011},
+volume={},
+number={},
+pages={1-4},
+keywords={aerospace computing;aircraft maintenance;augmented reality;actual reality;aeronautical maintenance;augmented reality;virtual reality;Augmented reality;Cameras;Hardware;Industries;Maintenance engineering;Manufacturing;Training;Augmented Reality;Maintenance operations},
+doi={10.1109/ICTON.2011.5970856},
+ISSN={2162-7339},
+month={June},}
